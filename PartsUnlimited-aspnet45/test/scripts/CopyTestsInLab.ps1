@@ -1,4 +1,5 @@
 # clear existing folder
+#This is for testing
 $testPath = "C:\tests"
 
 if (Test-Path -Path $testPath) {
